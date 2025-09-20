@@ -1,0 +1,15 @@
+test_project1:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: ONPPWMH-ZE93760
+      user: SHOP4ME
+      password: Teranet1234567
+      role:  ACCOUNTADMIN
+      database: DBT
+      warehouse: COMPUTE_WH
+      authenticator:  snowflake
+
+
+
