@@ -1,3 +1,1 @@
-select
-*
-from {{source('raw','customer')}}
+select * from {{source('raw','customer')}}
