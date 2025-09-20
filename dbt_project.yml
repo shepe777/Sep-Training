@@ -5,8 +5,6 @@ profile: default
 
 model-paths: ["models"]
 seed-paths: ["seeds"]
-
-
 models:
   test_project1:
       bronze:
