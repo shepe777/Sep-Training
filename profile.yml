@@ -7,7 +7,7 @@ test_project1:
       user: SHOP4ME
       password: Teranet1234567
       role:  ACCOUNTADMIN
-      database: DBT
+      database: TRAINING
       warehouse: COMPUTE_WH
       authenticator:  snowflake
 
